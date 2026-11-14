@@ -453,4 +453,4 @@ dataFechamento :
 
 ## 8. Vídeo de apresentação
 
-Link do vídeo (até 3 minutos): **[inserir link]**
+Vídeo de apresentação (2min54s): [video/apresentacao.mp4](video/apresentacao.mp4)
