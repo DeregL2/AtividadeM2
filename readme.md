@@ -4,7 +4,7 @@ Atividade prática M2 — Projeto e Desenvolvimento de Software Corporativo (UMC
 Aluno: Derick Alves Maschio
 
 - Documentação completa (requisitos, endpoints, evidências de testes): [docs/DOCUMENTACAO.md](docs/DOCUMENTACAO.md)
-- Vídeo de apresentação: [inserir link]
+- Vídeo de apresentação (2min54s): [docs/video/apresentacao.mp4](docs/video/apresentacao.mp4)
 
 ## Como executar
 1. Defina a variável de ambiente `MONGODB_URI` com a URI do MongoDB.
